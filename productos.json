@@ -37,13 +37,63 @@
     }
   },
   "horarios": {
-    "lunes":     [{"abre": "08:00", "cierra": "12:00"}, {"abre": "14:00", "cierra": "18:00"}],
-    "martes":    [{"abre": "08:00", "cierra": "12:00"}, {"abre": "14:00", "cierra": "18:00"}],
-    "miércoles": [{"abre": "08:00", "cierra": "12:00"}, {"abre": "14:00", "cierra": "18:00"}],
-    "jueves":    [{"abre": "08:00", "cierra": "12:00"}, {"abre": "14:00", "cierra": "18:00"}],
-    "viernes":   [{"abre": "08:00", "cierra": "12:00"}, {"abre": "14:00", "cierra": "18:00"}],
-    "sábado":    [],
-    "domingo":   []
+    "lunes": [
+      {
+        "abre": "08:00",
+        "cierra": "12:00"
+      },
+      {
+        "abre": "14:00",
+        "cierra": "18:00"
+      }
+    ],
+    "martes": [
+      {
+        "abre": "08:00",
+        "cierra": "12:00"
+      },
+      {
+        "abre": "14:00",
+        "cierra": "18:00"
+      }
+    ],
+    "miércoles": [
+      {
+        "abre": "08:00",
+        "cierra": "12:00"
+      },
+      {
+        "abre": "14:00",
+        "cierra": "18:00"
+      }
+    ],
+    "jueves": [
+      {
+        "abre": "08:00",
+        "cierra": "12:00"
+      },
+      {
+        "abre": "14:00",
+        "cierra": "18:00"
+      }
+    ],
+    "viernes": [
+      {
+        "abre": "08:00",
+        "cierra": "12:00"
+      },
+      {
+        "abre": "14:00",
+        "cierra": "18:00"
+      }
+    ],
+    "sábado": [
+      {
+        "abre": "08:00",
+        "cierra": "12:00"
+      }
+    ],
+    "domingo": []
   },
   "categorias": [
     {
@@ -240,32 +290,56 @@
     {
       "tipo": "Cocinas",
       "items": [
-        { "imagen": "", "titulo": "Cocina completa en blanco texturado", "descripcion": "Bajo mesada + alacena con cierre suave" },
-        { "imagen": "", "titulo": "Cocina en L roble americano", "descripcion": "Con desayunador integrado" }
+        {
+          "imagen": "",
+          "titulo": "Cocina completa en blanco texturado",
+          "descripcion": "Bajo mesada + alacena con cierre suave"
+        },
+        {
+          "imagen": "",
+          "titulo": "Cocina en L roble americano",
+          "descripcion": "Con desayunador integrado"
+        }
       ]
     },
     {
       "tipo": "Placares",
       "items": [
-        { "imagen": "", "titulo": "Placard corredizo 2,40 m", "descripcion": "Frentes combinados blanco y roble" }
+        {
+          "imagen": "",
+          "titulo": "Placard corredizo 2,40 m",
+          "descripcion": "Frentes combinados blanco y roble"
+        }
       ]
     },
     {
       "tipo": "Vestidores",
       "items": [
-        { "imagen": "", "titulo": "Vestidor en L con cajoneras", "descripcion": "Barrales dobles y zapatero" }
+        {
+          "imagen": "",
+          "titulo": "Vestidor en L con cajoneras",
+          "descripcion": "Barrales dobles y zapatero"
+        }
       ]
     },
     {
       "tipo": "Empotrados",
       "items": [
-        { "imagen": "", "titulo": "Mueble empotrado bajo escalera", "descripcion": "Aprovechamiento total del espacio" }
+        {
+          "imagen": "",
+          "titulo": "Mueble empotrado bajo escalera",
+          "descripcion": "Aprovechamiento total del espacio"
+        }
       ]
     },
     {
       "tipo": "Living",
       "items": [
-        { "imagen": "", "titulo": "Modular panel TV 2,00 m", "descripcion": "Con estantes flotantes y LED" }
+        {
+          "imagen": "",
+          "titulo": "Modular panel TV 2,00 m",
+          "descripcion": "Con estantes flotantes y LED"
+        }
       ]
     }
   ],
@@ -287,10 +361,22 @@
     "calidad": {
       "titulo": "Calidad que se nota al abrir un cajón",
       "items": [
-        { "titulo": "MDF 18 mm", "texto": "Melamina base MDF de 18 mm en toda la estructura, no solo en los frentes." },
-        { "titulo": "Cierre suave", "texto": "Bisagras y correderas con cierre suave en puertas y cajones." },
-        { "titulo": "Pistones de calidad", "texto": "Pistones a gas de primera línea en puertas rebatibles." },
-        { "titulo": "Terminaciones", "texto": "Tapacanto ABS y terminaciones prolijas en cada borde." }
+        {
+          "titulo": "MDF 18 mm",
+          "texto": "Melamina base MDF de 18 mm en toda la estructura, no solo en los frentes."
+        },
+        {
+          "titulo": "Cierre suave",
+          "texto": "Bisagras y correderas con cierre suave en puertas y cajones."
+        },
+        {
+          "titulo": "Pistones de calidad",
+          "texto": "Pistones a gas de primera línea en puertas rebatibles."
+        },
+        {
+          "titulo": "Terminaciones",
+          "texto": "Tapacanto ABS y terminaciones prolijas en cada borde."
+        }
       ]
     },
     "envios": {
