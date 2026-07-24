@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /portal.html
+Disallow: /pedidos.html
+Disallow: /seguimiento.html
+Sitemap: https://jdmuebles.github.io/sitemap.xml
