@@ -284,6 +284,26 @@
           "imagenes": []
         }
       ]
+    },
+    {
+      "id": "Catgoria Prueba",
+      "nombre": "Catgoria Prueba",
+      "descripcion": "",
+      "productos": [
+        {
+          "id": 15,
+          "nombre": " Mueble falopa",
+          "descripcion": "Descripcción mía",
+          "medidas": "120x30x60",
+          "precio": 3000000,
+          "stock_inmediato": true,
+          "disponible": true,
+          "destacado": true,
+          "imagenes": [
+            "p15-1784934924941-nga5.jpeg"
+          ]
+        }
+      ]
     }
   ],
   "galeria": [
